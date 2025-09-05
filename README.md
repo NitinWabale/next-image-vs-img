@@ -11,7 +11,6 @@ npm run dev
 Then visit:
 - http://localhost:3000/native-img
 - http://localhost:3000/next-image
-- http://localhost:3000/compare
 
 ## What to test
 
